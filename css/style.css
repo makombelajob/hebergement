@@ -8,7 +8,6 @@
     --clr-dark: #111111;
     --txt-alin: center;
     --txt-decor: none;
-    --txt-alin: center;
     --alin-itm: center;
     --dsp-flex: flex;
     --dsp-grid: grid;
@@ -16,16 +15,14 @@
 
 body {
     font-family: "Kumbh Sans", serif;
-    font-family: "Kumbh Sans", serif;
     font-optical-sizing: auto;
-    font-weight: auto;
     font-style: normal;
     font-variation-settings: "YOPQ" 300;
 }
 
 img {
     width: 100%;
-    object-fit: cover;
+    vertical-align: middle;
 }
 
 /* header style */
