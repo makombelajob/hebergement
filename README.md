@@ -53,7 +53,7 @@ Ce projet est un **site vitrine d'hébergement web** réalisé dans le cadre de 
 
 ## 👨‍💻 Auteur
 
-Projet réalisé par **[Ton Prénom NOM]**, dans le cadre de la formation **Développeur Web et Web Mobile**.
+Projet réalisé par **Job MAKOMBELA**, dans le cadre de la formation **Développeur Web et Web Mobile**.
 
 ---
 
